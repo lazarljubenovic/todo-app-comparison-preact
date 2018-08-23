@@ -1,0 +1,11 @@
+node_modules
+/build
+/*.log
+*.lock
+
+package-lock.json
+
+# ide
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
